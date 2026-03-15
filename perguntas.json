@@ -2,333 +2,387 @@
   "perguntas": [
     {
       "id": 1,
-      "pergunta": "Quem foi o fundador dos Irmãos Maristas?",
+      "pergunta": "Uma liderança inspiradora na tradição marista busca:",
       "alternativas": {
-        "A": "São João Batista de La Salle",
-        "B": "Marcelino Champagnat",
-        "C": "São Francisco de Sales",
-        "D": "Padre José de Anchieta"
+        "A": "Influenciar pelo exemplo",
+        "B": "Impor pela autoridade",
+        "C": "Controlar pela hierarquia",
+        "D": "Competir por status"
       },
-      "correta": "B"
+      "correta": "A"
     },
     {
       "id": 2,
-      "pergunta": "Qual é o símbolo mais reconhecido da espiritualidade Marista?",
+      "pergunta": "A capacidade do líder de ajudar a restaurar relações, fortalecer pessoas feridas e promover reconciliação expressa qual característica?",
       "alternativas": {
-        "A": "O peixe",
-        "B": "A cruz",
-        "C": "A violeta",
-        "D": "A pomba"
+        "A": "Inteligência",
+        "B": "Eficiência",
+        "C": "Cura",
+        "D": "Audácia"
       },
       "correta": "C"
     },
-    {
+      {
       "id": 3,
-      "pergunta": "O conceito de 'liderança servidora' foi popularizado por qual autor?",
+      "pergunta": "Na tradição marista, Maria é vista como modelo de:",
       "alternativas": {
-        "A": "Peter Drucker",
-        "B": "Robert Greenleaf",
-        "C": "Stephen Covey",
-        "D": "John Maxwell"
+        "A": "Autoridade",
+        "B": "Humildade e serviço",
+        "C": "Controle",
+        "D": "Competição"
       },
       "correta": "B"
     },
     {
       "id": 4,
-      "pergunta": "Qual valor Marista se refere à convivência fraterna e ao sentimento de pertença?",
+      "pergunta": "Na liderança profética marista, ser profético significa principalmente:",
       "alternativas": {
-        "A": "Simplicidade",
-        "B": "Amor ao trabalho",
-        "C": "Espírito de família",
-        "D": "Na via de Maria"
+        "A": "Prever o futuro",
+        "B": "Anunciar valores e denunciar injustiças",
+        "C": "Administrar recursos",
+        "D": "Seguir tendências do mercado"
       },
-      "correta": "C"
+      "correta": "B"
     },
     {
       "id": 5,
-      "pergunta": "A liderança servidora prioriza principalmente:",
+      "pergunta": "A atitude de colocar as necessidades das pessoas e da missão acima do interesse pessoal caracteriza qual princípio da liderança servidora?",
       "alternativas": {
-        "A": "O lucro da organização",
-        "B": "O poder e a autoridade do líder",
-        "C": "O crescimento e bem-estar das pessoas servidas",
-        "D": "A eficiência dos processos"
+        "A": "Serviço",
+        "B": "Competição",
+        "C": "Controle",
+        "D": "Prestígio"
       },
-      "correta": "C"
+      "correta": "A"
     },
     {
       "id": 6,
-      "pergunta": "O carisma Marista é orientado especialmente para:",
+      "pergunta": "Uma liderança servidora marista busca desenvolver nas pessoas:",
       "alternativas": {
-        "A": "A evangelização de adultos",
-        "B": "A educação dos jovens, especialmente os mais pobres",
-        "C": "A formação de sacerdotes",
-        "D": "O trabalho missionário em países ricos"
+        "A": "Dependência",
+        "B": "Competição interna",
+        "C": "Submissão",
+        "D": "Crescimento humano e espiritual"
       },
-      "correta": "B"
+      "correta": "D"
     },
     {
       "id": 7,
-      "pergunta": "'Fazer conhecer e amar a Jesus Cristo' é a missão atribuída a:",
+      "pergunta": "Estar próximo das pessoas, acompanhando sua realidade e demonstrando cuidado cotidiano é exemplo de qual característica?",
       "alternativas": {
-        "A": "São Luís Grignion de Montfort",
-        "B": "Marcelino Champagnat",
-        "C": "Pe. Chaminade",
-        "D": "São João Bosco"
+        "A": "Presença",
+        "B": "Controle",
+        "C": "Competição",
+        "D": "Distanciamento"
       },
-      "correta": "B"
+      "correta": "A"
     },
     {
       "id": 8,
-      "pergunta": "Qual das seguintes características é central na liderança servidora?",
+      "pergunta": "No estilo marista de liderança, o líder é chamado a:",
       "alternativas": {
-        "A": "Centralização das decisões",
-        "B": "Escuta ativa e empatia",
-        "C": "Hierarquia rígida",
-        "D": "Foco exclusivo em resultados"
+        "A": "Controlar rigidamente as equipes",
+        "B": "Caminhar junto com as pessoas",
+        "C": "Priorizar metas financeiras",
+        "D": "Centralizar decisões"
       },
       "correta": "B"
     },
     {
       "id": 9,
-      "pergunta": "O profetismo Marista se manifesta principalmente através de:",
+      "pergunta": "Ser presença significativa na liderança marista significa:",
       "alternativas": {
-        "A": "Discursos políticos",
-        "B": "Denúncia das injustiças e defesa dos mais vulneráveis",
-        "C": "Ações de marketing institucional",
-        "D": "Expansão de unidades educativas"
+        "A": "Acompanhar e apoiar as pessoas",
+        "B": "Apenas supervisionar tarefas",
+        "C": "Manter distância hierárquica",
+        "D": "Centralizar decisões"
       },
-      "correta": "B"
+      "correta": "A"
     },
-    {
+      {
       "id": 10,
-      "pergunta": "Na liderança servidora, o papel do líder é:",
+      "pergunta": "A espiritualidade marista inspira líderes a:",
       "alternativas": {
-        "A": "Ser servido pelos demais",
-        "B": "Servir à equipe e remover obstáculos",
-        "C": "Tomar todas as decisões sozinho",
-        "D": "Maximizar sua própria influência"
+        "A": "Buscar prestígio",
+        "B": "Evitar riscos",
+        "C": "Priorizar resultados financeiros",
+        "D": "Viver a missão com sentido"
       },
-      "correta": "B"
+      "correta": "D"
     },
-    {
+      {
       "id": 11,
-      "pergunta": "Qual valor Marista incentiva a vida despojada e sem ostentação?",
+      "pergunta": "A liderança marista que se orienta por valores profundos e sentido de missão demonstra qual característica?",
       "alternativas": {
-        "A": "Espírito de família",
-        "B": "Amor ao trabalho",
-        "C": "Simplicidade",
-        "D": "Presença"
+        "A": "Religião",
+        "B": "Competição",
+        "C": "Espiritualidade",
+        "D": "Formalidade"
       },
       "correta": "C"
     },
     {
       "id": 12,
-      "pergunta": "Os Irmãos Maristas foram fundados em qual país?",
+      "pergunta": "A liderança marista valoriza especialmente:",
       "alternativas": {
-        "A": "Itália",
-        "B": "Espanha",
-        "C": "Portugal",
-        "D": "França"
+        "A": "Relações humanas autênticas",
+        "B": "Estruturas rígidas",
+        "C": "Competição individual",
+        "D": "Hierarquias fechadas"
       },
-      "correta": "D"
+      "correta": "A"
     },
     {
       "id": 13,
-      "pergunta": "Em que ano Marcelino Champagnat fundou os Irmãos Maristas?",
+      "pergunta": "O líder marista é chamado a cultivar:",
       "alternativas": {
-        "A": "1800",
-        "B": "1817",
-        "C": "1830",
-        "D": "1850"
+        "A": "Autoridade rígida",
+        "B": "Humildade e serviço",
+        "C": "Competitividade",
+        "D": "Controle total"
       },
       "correta": "B"
     },
     {
       "id": 14,
-      "pergunta": "A liderança profética implica:",
+      "pergunta": "No espírito marista, liderar é:",
       "alternativas": {
-        "A": "Prever o futuro com precisão",
-        "B": "Anunciar e denunciar à luz dos valores do Evangelho",
-        "C": "Liderar através de profecias espirituais",
-        "D": "Impor valores religiosos"
-      },
-      "correta": "B"
-    },
-    {
-      "id": 15,
-      "pergunta": "Qual atitude define melhor um líder servidor?",
-      "alternativas": {
-        "A": "Buscar reconhecimento pessoal",
-        "B": "Colocar as necessidades dos outros antes das próprias",
-        "C": "Delegar toda a responsabilidade",
-        "D": "Manter distância dos colaboradores"
-      },
-      "correta": "B"
-    },
-    {
-      "id": 16,
-      "pergunta": "O 'espírito de família' Marista se traduz em:",
-      "alternativas": {
-        "A": "Relações frias e profissionais",
-        "B": "Acolhimento, partilha e cuidado mútuo",
-        "C": "Competição entre membros",
-        "D": "Hierarquia estrita e formal"
-      },
-      "correta": "B"
-    },
-    {
-      "id": 17,
-      "pergunta": "A presença educativa Marista é inspirada na presença de:",
-      "alternativas": {
-        "A": "São José",
-        "B": "Maria, mãe de Jesus",
-        "C": "João Batista",
-        "D": "São Paulo"
-      },
-      "correta": "B"
-    },
-    {
-      "id": 18,
-      "pergunta": "Na espiritualidade Marista, 'na via de Maria' significa:",
-      "alternativas": {
-        "A": "Percorrer locais de aparição mariana",
-        "B": "Rezar o rosário diariamente",
-        "C": "Agir com discrição, humildade e eficácia como Maria",
-        "D": "Consagrar a organização à Virgem Maria"
+        "A": "Mandar",
+        "B": "Controlar",
+        "C": "Servir",
+        "D": "Competir"
       },
       "correta": "C"
     },
     {
-      "id": 19,
-      "pergunta": "Um líder servidor fortalece sua equipe principalmente através de:",
+      "id": 15,
+      "pergunta": "A liderança inspirada em Champagnat valoriza:",
       "alternativas": {
-        "A": "Ordens e imposições",
-        "B": "Empoderamento e desenvolvimento das pessoas",
-        "C": "Controle e vigilância constante",
-        "D": "Premiações financeiras exclusivamente"
+        "A": "A simplicidade no agir",
+        "B": "A burocracia",
+        "C": "A distância hierárquica",
+        "D": "A formalidade excessiva"
+      },
+      "correta": "A"
+    },
+    {
+      "id": 16,
+      "pergunta": "A liderança servidora marista busca:",
+      "alternativas": {
+        "A": "Empoderar as pessoas",
+        "B": "Centralizar decisões",
+        "C": "Aumentar hierarquia",
+        "D": "Controlar comportamentos"
+      },
+      "correta": "A"
+    },
+    {
+      "id": 17,
+      "pergunta": "Quando o líder procura compreender os sentimentos e perspectivas, ele demonstra qual característica?",
+      "alternativas": {
+        "A": "Empatia",
+        "B": "Competitividade",
+        "C": "Neutralidade",
+        "D": "Formalidade"
+      },
+      "correta": "A"
+    },
+    {
+      "id": 18,
+      "pergunta": "A atitude marista de 'presença' implica:",
+      "alternativas": {
+        "A": "Proximidade e cuidado",
+        "B": "Controle rigoroso",
+        "C": "Distanciamento institucional",
+        "D": "Foco apenas em resultados"
+      },
+      "correta": "A"
+    },
+    {
+      "id": 19,
+      "pergunta": "A liderança profética implica:",
+      "alternativas": {
+        "A": "Adaptar-se sempre ao sistema",
+        "B": "Transformar a realidade",
+        "C": "Ignorar problemas sociais",
+        "D": "Buscar neutralidade"
       },
       "correta": "B"
     },
     {
       "id": 20,
-      "pergunta": "O profetismo Marista tem raízes no conceito de:",
+      "pergunta": "O líder marista é chamado a cultivar esperança porque:",
       "alternativas": {
-        "A": "Liderança carismática individual",
-        "B": "Opção preferencial pelos pobres e marginalizados",
-        "C": "Crescimento institucional",
-        "D": "Gestão estratégica de organizações"
+        "A": "A missão exige confiança no futuro",
+        "B": "É uma exigência institucional",
+        "C": "É parte da hierarquia",
+        "D": "Gera competitividade"
       },
-      "correta": "B"
+      "correta": "A"
     },
     {
       "id": 21,
-      "pergunta": "Qual é a relação entre liderança servidora e confiança?",
+      "pergunta": "Uma liderança inspirada no carisma marista valoriza:",
       "alternativas": {
-        "A": "Confiança não é relevante para o líder servidor",
-        "B": "O líder servidor constrói confiança através da consistência e integridade",
-        "C": "O líder servidor exige confiança sem precisar merecê-la",
-        "D": "Confiança é apenas uma ferramenta de gestão"
+        "A": "Relacionamentos fraternos",
+        "B": "Hierarquia rígida",
+        "C": "Controle formal",
+        "D": "Competição interna"
       },
-      "correta": "B"
+      "correta": "A"
     },
     {
       "id": 22,
-      "pergunta": "O 'amor ao trabalho' no carisma Marista significa:",
+      "pergunta": "A missão marista busca especialmente promover:",
       "alternativas": {
-        "A": "Trabalhar sem descanso",
-        "B": "Priorizar a produtividade acima de tudo",
-        "C": "Dedicar-se com entusiasmo e competência à missão educativa",
-        "D": "Valorizar apenas o trabalho intelectual"
+        "A": "Educação e dignidade humana",
+        "B": "Prestígio institucional",
+        "C": "Crescimento econômico",
+        "D": "Hierarquia social"
       },
-      "correta": "C"
+      "correta": "A"
     },
     {
       "id": 23,
-      "pergunta": "Qual característica diferencia a liderança servidora da liderança tradicional?",
+      "pergunta": "Um líder marista toma decisões considerando:",
       "alternativas": {
-        "A": "A liderança servidora foca no poder pessoal",
-        "B": "Na liderança servidora, servir vem antes de liderar",
-        "C": "A liderança servidora é menos eficaz organizacionalmente",
-        "D": "A liderança servidora ignora resultados"
+        "A": "Pressões externas",
+        "B": "Somente resultados financeiros",
+        "C": "A missão e o bem das pessoas",
+        "D": "Status institucional"
       },
-      "correta": "B"
+      "correta": "C"
     },
     {
       "id": 24,
-      "pergunta": "Marcelino Champagnat fundou os Maristas após visitar um jovem que:",
+      "pergunta": "A liderança profética exige:",
       "alternativas": {
-        "A": "Queria se tornar sacerdote",
-        "B": "Estava morrendo sem conhecer os rudimentos da fé",
-        "C": "Era superdotado e precisava de educação",
-        "D": "Liderava uma comunidade pobre"
+        "A": "Coragem",
+        "B": "Neutralidade",
+        "C": "Silêncio",
+        "D": "Conformismo"
       },
-      "correta": "B"
+      "correta": "A"
     },
     {
       "id": 25,
-      "pergunta": "A dimensão comunitária da liderança Marista valoriza:",
+      "pergunta": "O líder marista cultiva espiritualidade para:",
       "alternativas": {
-        "A": "O trabalho individual e solitário",
-        "B": "A competição entre membros da equipe",
-        "C": "A colaboração, o compartilhamento e a missão coletiva",
-        "D": "A hierarquia baseada em títulos"
+        "A": "Buscar status",
+        "B": "Aumentar autoridade",
+        "C": "Controlar pessoas",
+        "D": "Sustentar sua missão"
       },
-      "correta": "C"
+      "correta": "D"
     },
     {
       "id": 26,
-      "pergunta": "O compromisso com a justiça social na espiritualidade Marista implica:",
+      "pergunta": "Uma atitude central da liderança servidora é:",
       "alternativas": {
-        "A": "Apenas ações de caridade pontuais",
-        "B": "Engajamento estrutural e transformador em favor dos mais vulneráveis",
-        "C": "Neutralidade política e social",
-        "D": "Foco exclusivo na formação religiosa"
+        "A": "Escuta",
+        "B": "Controle",
+        "C": "Competição",
+        "D": "Autoridade"
       },
-      "correta": "B"
+      "correta": "A"
     },
     {
       "id": 27,
-      "pergunta": "Robert Greenleaf publicou seu conceito de liderança servidora pela primeira vez em que década?",
+      "pergunta": "O líder marista promove um ambiente de:",
       "alternativas": {
-        "A": "1950",
-        "B": "1960",
-        "C": "1970",
-        "D": "1980"
+        "A": "Confiança",
+        "B": "Medo",
+        "C": "Competição",
+        "D": "Controle"
       },
-      "correta": "C"
+      "correta": "A"
     },
     {
       "id": 28,
-      "pergunta": "O líder servidor, segundo Greenleaf, deve primeiro perguntar:",
+      "pergunta": "A liderança marista incentiva:",
       "alternativas": {
-        "A": "Como posso ter mais poder?",
-        "B": "Como posso crescer na carreira?",
-        "C": "Como posso servir?",
-        "D": "Como posso lucrar mais?"
+        "A": "Controle total",
+        "B": "Individualismo",
+        "C": "Competição",
+        "D": "Trabalho em equipe"
       },
-      "correta": "C"
+      "correta": "D"
     },
     {
       "id": 29,
-      "pergunta": "Qual documento orienta a missão educativa Marista no mundo?",
+      "pergunta": "Na liderança servidora, o poder é entendido como:",
       "alternativas": {
-        "A": "Ratio Studiorum",
-        "B": "Missão Educativa Marista: Um projeto de vida integrante",
-        "C": "Regra de São Bento",
-        "D": "Constituições Jesuítas"
+        "A": "Responsabilidade de servir",
+        "B": "Domínio sobre outros",
+        "C": "Controle institucional",
+        "D": "Privilégio"
+      },
+      "correta": "A"
+    },
+    {
+      "id": 30,
+      "pergunta": "O líder marista demonstra coerência quando:",
+      "alternativas": {
+        "A": "Age conforme os valores que anuncia",
+        "B": "Busca reconhecimento",
+        "C": "Controla a equipe",
+        "D": "Centraliza decisões"
+      },
+      "correta": "A"
+    },
+    {
+      "id": 31,
+      "pergunta": "A liderança marista é essencialmente:",
+      "alternativas": {
+        "A": "Serviço à missão e às pessoas",
+        "B": "Controle institucional",
+        "C": "Busca de poder",
+        "D": "Competição organizacional"
+      },
+      "correta": "A"
+    },
+    {
+      "id": 32,
+      "pergunta": "Qual característica se manifesta quando o líder dedica tempo para ouvir profundamente as pessoas antes de tomar decisões?",
+      "alternativas": {
+        "A": "Persuasão",
+        "B": "Escuta",
+        "C": "Paciência",
+        "D": "Amor"
       },
       "correta": "B"
     },
     {
-      "id": 30,
-      "pergunta": "A liderança servidora e profética Marista convida o educador a ser simultaneamente:",
+      "id": 33,
+      "pergunta": "Quando o líder demonstra clareza sobre seus valores, decisões e impacto nas pessoas, ele exerce qual característica?",
       "alternativas": {
-        "A": "Gestor e controlador",
-        "B": "Professor e avaliador",
-        "C": "Testemunha e anunciador dos valores do Evangelho",
-        "D": "Administrador e estrategista"
+        "A": "Consciência",
+        "B": "Competição",
+        "C": "Autoritarismo",
+        "D": "Formalidade"
       },
-      "correta": "C"
+      "correta": "A"
+    },
+    {
+      "id": 34,
+      "pergunta": "Convencer pelo diálogo e pelo exemplo, em vez de impor pela autoridade, caracteriza qual dimensão da liderança servidora?",
+      "alternativas": {
+        "A": "Controle",
+        "B": "Decisão",
+        "C": "Hierarquia",
+        "D": "Persuasão"
+      },
+      "correta": "D"
+    },
+    {
+      "id": 35,
+      "pergunta": "Quando o líder age com autenticidade, proximidade e sem ostentação de poder, ele expressa qual valor marista?",
+      "alternativas": {
+        "A": "Simplicidade",
+        "B": "Formalidade",
+        "C": "Autoridade",
+        "D": "Distanciamento"
+      },
+      "correta": "A"
     }
-  ]
 }
